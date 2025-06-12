@@ -42,8 +42,27 @@
 
 ---
 
+📦 Repository Description (Generic Template)
+
+🚀 A smart and scalable project built using [tech stack] that solves [problem/use case]. Designed for real-world application with clean code, intuitive UI, and practical features.
+
+Examples Based on Your Projects:
+🔐 AnimalWatcher / Farm Protection
+🐄 An automated farm protection system using YOLOv5 and ESP32-CAM to detect animals, trigger alerts, and control irrigation — all from a live dashboard.
+
+🧠 Mental Wellness Chatbot
+💬 A GenAI-powered mental wellness chatbot with personalized personas, family sessions, points-based engagement, and emergency care integration.
+
+🏥 Health Assistant App
+⏰ A modular health assistant built with Streamlit that reminds users about medications, hydration, checkups, and more — all managed by a smart data system.
+
+📚 Exam Generator (Flutter + Firebase)
+📖 A role-based exam app for students, faculty, and admins to manage, generate, and attempt question papers with both manual and CSV-based question uploads.
+
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rohan-marapally-b5aa56256)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/R0han3044)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:marapallyrohan@gmail.com)
+
+
 
