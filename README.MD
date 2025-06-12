@@ -46,7 +46,6 @@
 
 🚀 A smart and scalable project built using [tech stack] that solves [problem/use case]. Designed for real-world application with clean code, intuitive UI, and practical features.
 
-Examples Based on Your Projects:
 🔐 AnimalWatcher / Farm Protection
 🐄 An automated farm protection system using YOLOv5 and ESP32-CAM to detect animals, trigger alerts, and control irrigation — all from a live dashboard.
 
